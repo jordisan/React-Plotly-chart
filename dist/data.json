@@ -1,0 +1,32 @@
+[
+  {
+    "mip": {
+      "id": 259,
+      "name": "Abu Dhabi Media",
+      "code": "ADM"
+    },
+    "briefNetSpendInEuro": 14000,
+    "postNetSpendInEuro": 0,
+    "proposalSpendInEuro": 10465
+  },
+  {
+    "mip": {
+      "id": 264,
+      "name": "Aljazeera",
+      "code": "ALJ"
+    },
+    "briefNetSpendInEuro": 20123,
+    "postNetSpendInEuro": 5032,
+    "proposalSpendInEuro": 9000
+  },
+  {
+    "mip": {
+      "id": 265,
+      "name": "Choueiri Group",
+      "code": "CG"
+    },
+    "briefNetSpendInEuro": 4500,
+    "postNetSpendInEuro": 1234,
+    "proposalSpendInEuro": null
+  }
+]
