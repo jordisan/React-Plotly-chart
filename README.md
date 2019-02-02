@@ -8,6 +8,6 @@ Based on
 
 # Installation
 
-1 npm install
-2 npm start
-3 visit `http://localhost:8080/`
+1. npm install
+2. npm start
+3. visit `http://localhost:8080/`
