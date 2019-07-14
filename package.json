@@ -22,7 +22,7 @@
     "webpack-dev-server": ">=3.1.11"
   },
   "dependencies": {
-    "plotly.js": "^1.43.1",
+    "plotly.js": "^1.48.3",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-plotly.js": "^2.2.0",
