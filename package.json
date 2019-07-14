@@ -22,6 +22,7 @@
     "webpack-dev-server": "^3.7.2"
   },
   "dependencies": {
+    "babel": "^6.23.0",
     "plotly.js": "^1.48.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
