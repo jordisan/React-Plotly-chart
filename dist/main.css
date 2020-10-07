@@ -12,7 +12,9 @@ h2 {
 
 .budgetchart {
     margin: 20px auto;
-    max-width: 800px;
+    width: 800px;
+    max-width: 100%;
+    overflow: auto;
 }
 
 .budgetchart .selector {
